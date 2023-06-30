@@ -2,7 +2,7 @@
 
 ## Description
 
-<p>Given a string <code>s</code>, find the length of the <strong>longest</strong><strong>substring</strong> without repeating characters.</p>
+<p>Given a string <code>s</code>, find the length of the <strong>longest</strong><strong> substring</strong> without repeating characters.</p>
 
 <p><strong class="example">Example 1:</strong></p>
 
