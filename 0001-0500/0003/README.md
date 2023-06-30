@@ -2,7 +2,7 @@
 
 ## Description
 
-<strong>substring</strong></div></div></div></span> without repeating characters.</p>
+<p>Given a string <code>s</code>, find the length of the <strong>longest</strong><strong>substring</strong> without repeating characters.</p>
 
 <p><strong class="example">Example 1:</strong></p>
 
@@ -32,6 +32,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 	<li><code>0 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
+</div>
 <p>&nbsp;</p>
 
 ## Solutions
